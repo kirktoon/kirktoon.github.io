@@ -1,0 +1,47 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #000066;
+  margin: 0;
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.container {
+	margin: 5%;
+}
+
+header.startup {
+  margin-top: 20%;
+  text-align: center;
+}
+
+h1.startupHeaderFont {
+	font-family: 'Poppins', sans-serif;
+	text-transform: uppercase;
+	font-size: 2em;
+	color: white;
+}
+
+.findBtn {
+	margin-top: 35px;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.btn-myprimary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-myprimary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  cursor: pointer;
+}
